@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "gnuplot-main",
+			"path": "../../include/gnuplot-main"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"dense": "cpp",
+			"iosfwd": "cpp"
+		}
+	}
+}
